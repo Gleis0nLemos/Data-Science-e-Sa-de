@@ -1,9 +1,9 @@
 ### Data Science: análises para saúde e medicina
     Curso da Formação: Data Science, By #Alura
 
-#### Conteúdos da AULA 01:
+#### Resumo da AULA 02:
 
 ###
-    - Buscando dados da web em relação a casos 'Confirmados' de COVID-19 do inicio até o ano atual;
-    - Analisando a base de dados, observando muitos dados 'NaN' e vendo formas de tratamentos;
-    - Percebendo a importância de 'Data Visualization'.
+    - Casos e novos casos e time series;
+    - Porque não usar gráficos de pizza;
+    - Mais resumo, contextualizando Data Visualization.
