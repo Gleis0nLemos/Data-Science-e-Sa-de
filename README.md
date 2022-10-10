@@ -1,9 +1,10 @@
 ### Data Science: análises para saúde e medicina
     Curso da Formação: Data Science, By #Alura
 
-#### Resumo da AULA 02:
+#### Contéudos abordados na AULA 03:
 
 ###
-    - Casos e novos casos e time series;
-    - Porque não usar gráficos de pizza;
-    - Mais resumo, contextualizando Data Visualization.
+    - Fontes de dados de 'deaths' e 'recovered';
+    - Dados da John Hopkins;
+    - Taxamos letalidade com base nos dados e vimos cuidados 
+      ao se confirmar um número do mesmo.
