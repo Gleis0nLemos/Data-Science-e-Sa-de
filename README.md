@@ -1,7 +1,7 @@
 ### Data Science: visualização de dados para saúde e medicina
     Curso da Formação: Data Science, #Alura
 
-#### Resumo da AULA 01:
+#### Observações da AULA 01:
 
 ###
     - Criando comparações em snapshots;
