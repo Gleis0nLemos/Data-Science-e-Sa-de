@@ -3,8 +3,8 @@
 ### Data Science: visualização de dados para saúde e medicina
     Curso da Formação: Data Science, #Alura
 
-#### Anotações da AULA 03:
+#### Particularidades da AULA 04:
 
 ###
-    - Taxa de incidência e mortalidade;
-    - Comparando doenças distintas.
+    - Explorando mais a fundo;
+    - Tentando comparar incidência e mortalidade.
