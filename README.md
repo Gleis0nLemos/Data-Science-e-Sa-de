@@ -1,17 +1,9 @@
-## Parte 1
+### Data Science: visualização de dados para saúde e medicina
+    Curso da Formação: Data Science, #Alura
 
-### Data Science: análises para saúde e medicina
-    Curso da Formação: Data Science, By #Alura
-
-#### Sumário das aulas:
+#### Resumo da AULA 01:
 
 ###
-    - Dados e visualizações;
-###
-    - Time series, tortas e barras;
-###
-    - Fontes de dados e letalidade;
-###
-    - Histogramas e resumindo informações;
-###
-    - Comparações e análises.
+    - Criando comparações em snapshots;
+    - Evolução em time series copy;
+    - Boletins epidemiológicos e resumos.
