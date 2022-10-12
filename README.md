@@ -1,10 +1,8 @@
-## Parte 1
-
 ### Data Science: visualização de dados para saúde e medicina
     Curso da Formação: Data Science, #Alura
 
-#### Particularidades da AULA 04:
+#### Anotações da AULA 05:
 
 ###
-    - Explorando mais a fundo;
-    - Tentando comparar incidência e mortalidade.
+    - Finalizando as comparações;
+    - Gráficos finais.
